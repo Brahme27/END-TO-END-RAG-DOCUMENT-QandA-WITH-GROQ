@@ -48,7 +48,7 @@ streamlit run app.py
 
 3. Enter your question in the text input and get answers based on the uploaded PDFs.
 
-## 📦 Dependencies
+##  Dependencies
 
 * Streamlit
 * LangChain
